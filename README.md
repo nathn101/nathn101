@@ -2,7 +2,7 @@
 
 ### About Me:
 - 💻 Computing and Financial Management student at the University of Waterloo
-- 🧠 Interested in Machine Learning and Web Development
+- 🧠 Interested in Machine Learning, Data Science and Web Development
 - ✍️ Always looking to learn new things
 
 ## 🧰 Languages and Tools:
