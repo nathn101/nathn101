@@ -1,9 +1,9 @@
 ### Hi there, I'm Nathan👋
 
 ### About Me:
-- Computing and Financial Management student at the University of Waterloo
-- Interested in Machine Learning and Web Development
-- Always looking to learn new things
+- 💻 Computing and Financial Management student at the University of Waterloo
+- 🧠 Interested in Machine Learning and Web Development
+- ✍️ Always looking to learn new things
 
 ## 🧰 Languages and Tools:
 <p align="center">
