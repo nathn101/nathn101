@@ -6,7 +6,7 @@
 - ✍️ Always looking to learn new things
 
 ## 🧰 Languages and Tools:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,c,git,vim,gcp,react,js,html,css" />
   </a>
