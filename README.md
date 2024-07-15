@@ -19,7 +19,7 @@
 <!-- ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathn101&show_icons=true&theme=radical&hide_rank=true) -->
 
 ## 🎶 Music:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22i32facrqjg2lfp2ehn4bc7i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22i32facrqjg2lfp2ehn4bc7i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **nathn101/nathn101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
