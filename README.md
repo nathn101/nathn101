@@ -14,7 +14,7 @@
 
 ##
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=nathn101.nathn101) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathn101&layout=compact&hide=jupyter%20notebook,css)
+![Top Langs](https://github-readme-stats-omega-five-44.vercel.app/api/top-langs/?username=nathn101&layout=compact&hide=jupyter%20notebook,css)
 
 <!-- ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathn101&show_icons=true&theme=radical&hide_rank=true) -->
 
